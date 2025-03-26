@@ -24,4 +24,7 @@ set2 = {"google", "microsoft", "apple"}
 
 set3 = set1.symmetric_difference(set2)
 
+
+#SDFASDFASDFASDF
+
 print(set3)
