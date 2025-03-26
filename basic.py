@@ -39,3 +39,5 @@ print("14-6=",hell)
 we=10/3
 print(we)
 modulus -result=10%3#result_i
+
+#######
